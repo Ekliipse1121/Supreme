@@ -1,1 +1,0 @@
-Ekliipse: node app.js
