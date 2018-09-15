@@ -70,7 +70,7 @@ function scrape(arr) {
   request({
       url: 'https://www.supremenewyork.com/shop/all',
       headers: generateRandomUserAgent(),
-      timeout:10000,
+      timeout:60000,
       proxy: formatProxy(proxyList[Math.floor(Math.random() * proxyList.length)])
   }, function(error, response, html) {
 
