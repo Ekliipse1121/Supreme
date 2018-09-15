@@ -12,7 +12,7 @@ var newSoldOutItems = []
 const proxyList = [];
 const userAgentList = [];
 var restockCycles = 0;//do not change
-var refreshDelay = 10000//check every 30 seconds
+var refreshDelay = 5000//check every 30 seconds
 
 //uncomment for slack configuration
 // const slackWebhookURL = ''
