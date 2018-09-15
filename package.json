@@ -1,6 +1,5 @@
 {
   "name": "SupremeRestocks",
-  "version": "2.0",
   "description": "Script that monitors supremenewyork for items that have restocked.",
   "main": "supreme.js",
   "scripts": {
