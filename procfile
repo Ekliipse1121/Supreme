@@ -1,1 +1,1 @@
-web: node supreme.js
+worker node supreme.js
