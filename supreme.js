@@ -38,7 +38,7 @@ discord.hookToken = 'cxp8NQcR_8eBKVTJw27VbSvxcCeDkBZYAhO9-Akare4UFzk-j53bxHzndE8
 
 //Uncomment if you need slack or discord or twitter output
 //slack.send('Now monitoring for restocks.')
-discord.sendMessage('Now monitoring for restocks.');
+//discord.sendMessage('Now monitoring for restocks.');
 // client.post('statuses/update', {status: 'Now monitoring for restocks.'}, function(error, tweet, response) {
 //   if (!error) {
 //     console.log(tweet);
